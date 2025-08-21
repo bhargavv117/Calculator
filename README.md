@@ -1,2 +1,2 @@
-# Calculator.java
+# Calculator
 Performs addition, subtraction, multiplication, division
